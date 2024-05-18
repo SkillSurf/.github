@@ -13,4 +13,4 @@ Skill Surf, founded by alumni from the <b>Dept. of Electronics and Telecommunica
 
 <br>
 
-![alt text](Roadmap.png "Title")
+![skillsurf](Roadmap.png)
