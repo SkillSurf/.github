@@ -7,6 +7,7 @@ Skill Surf, founded by alumni from the <b>Dept. of Electronics and Telecommunica
 - <b>Fostering a Community of Tech Enthusiasts</b>: Building a community of skilled professionals passionate about technology and innovation.
 - <b>Lifelong Learning and Continuous Improvement</b>: Enabling continuous learning to keep pace with the rapidly evolving tech landscape.
 
+## SkillSurf Portfolio
 <br>
 
 [<kbd> <br> View Skill Surf Portfolio <br> </kbd>](https://docs.google.com/presentation/d/1mPg_zTWfkgGSF_1b5LW20q0u2JSskBtTqdlMHWQwXpg/edit?usp=sharing)
